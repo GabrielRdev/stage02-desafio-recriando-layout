@@ -1,0 +1,15 @@
+body{
+    background-color:#2C2B3D ;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.line{
+    width: 568px;
+    height: 0px;
+
+    margin: 0 auto 8px;
+
+    border: 1px solid #ECEFF2;
+}
