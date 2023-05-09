@@ -5,7 +5,7 @@ body{
 }
 
 .page{
-    margin: 100px;
+    padding: 71px 100px    ;
 
 }
 
@@ -13,6 +13,8 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    font-size: 19px;
 
 
 }
@@ -73,6 +75,7 @@ footer{
     position:fixed;
     bottom: 0px;
     left: 20px;
+    padding:20px
 }
 
 .line{
